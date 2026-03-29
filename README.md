@@ -160,6 +160,6 @@ See the [`README.md`](./src/README.md) in the `CUR_decomposition` directory for 
 ## Credits
 This project has been done in collaboration with:
 - Peng Rao [Peng-Rao](https://github.com/Peng-Rao)
-- Cao Wu [Cao-Wu] (https://github.com/DOCCA0)
-- Jiali Claudio Huang [Jiali-Claudio-Huang] (https://github.com/huangjialiclaudio)
-- Anna Paola Izzo [Anna-Paola-Izzo] (https://github.com/AnnaPaola00)
+- Cao Wu [Cao-Wu](https://github.com/DOCCA0)
+- Jiali Claudio Huang [Jiali-Claudio-Huang](https://github.com/huangjialiclaudio)
+- Anna Paola Izzo [Anna-Paola-Izzo](https://github.com/AnnaPaola00)
